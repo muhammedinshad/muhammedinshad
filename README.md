@@ -79,7 +79,7 @@ Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, In
 
 ## 💫 Let's Connect!
 
-- 💼 **LinkedIn**: [Dennis Joseph](https://linkedin.com/in/dennis-joseph-4a8903344)
+- 💼 **LinkedIn**: [Muhammed Inshad](https://linkedin.com/in/muhammed-inshad-590aa037b)
 ---
 
 
