@@ -2,7 +2,7 @@
 
 Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, India, currently focusing on Python for backend development.
 
-<img src="https://i.pinimg.com/1200x/19/ce/58/19ce58c4d49883197ed1b2dac5108079.jpg">
+<img src="https://i.pinimg.com/1200x/e7/74/17/e774178b0313c46151730ed19eb8297f.jpg">
 
 ---
 
