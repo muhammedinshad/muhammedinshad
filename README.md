@@ -49,6 +49,12 @@ Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, In
 🎯 Django        | API Development  | Database Design
 🗄️ Databases     | Server-side Dev  | Web Hosting
 ```
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/muhammed-inshad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:muhammedinshad30@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="50" width="50" /></a>
+  <a href="https://instagram.com/inshhaaad.hh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" height="50" width="50" /></a>
+</p>
 
 ---
 
@@ -75,12 +81,6 @@ Hi! I'm **Muhammed Inshad**, a passionate **Frontend Developer** from Kerala, In
 
 ---
 
-
-
-## 💫 Let's Connect!
-
-- 💼 **LinkedIn**: [Muhammed Inshad](https://linkedin.com/in/muhammed-inshad-590aa037b)
----
 
 
 
